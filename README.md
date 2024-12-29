@@ -1,8 +1,8 @@
 ## Olá ! Eu sou o Rodrigo
 
-- 🔭 Estou trabalhando com Python 
-- 😀 Aprendendo scraping
-- ✔  Fatecano formado em ADS e cursando GTI
+- 🔭 Estou trabalhando com Java 
+- 😀 Trabalhando atualmente na Viceri Seidor
+- ✔  Fatecano formado em ADS
 -->
 <div align="center">
   <a href="https://github.com/rodrigobrah">
